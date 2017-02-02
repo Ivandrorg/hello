@@ -8,7 +8,7 @@ public class Hello {
 		System.out.println("Hello World!");
 	}
 	public static void hello3(){
-		system.out.println("Show de bola")
+		System.out.println("Show de bola");
 	}
 	public static void main(String[] args) {
 		hello();
